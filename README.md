@@ -1,12 +1,9 @@
-基于NUCLEO F411RE评估板的模板及例程，使用HAL库。
+STM32F411 NUCLEO based project template & routines.
 
-简单介绍
+Drivers contain HAL LIBRARIES and CMSIS components, depended by all other
+projects.
 
-Drivers为HAL库及CMSIS组件，所有例程共用，必须！
+general demonstrates a bare project for implementing your own peripherals.
 
-general是一个模板工程，可以在此基础上添加自己的功能。
-
-其它例程会慢慢添加。
-
-HAL库版本：F4V1.5
-MDK版本： MDK V5
+FIRMWARE VERSION: F4V1.5
+MDK IDE VERSION:  MDK V5
