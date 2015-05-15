@@ -7,3 +7,6 @@ Drivers为HAL库及CMSIS组件，所有例程共用，必须！
 general是一个模板工程，可以在此基础上添加自己的功能。
 
 其它例程会慢慢添加。
+
+HAL库版本：F4V1.5
+MDK版本： MDK V5
